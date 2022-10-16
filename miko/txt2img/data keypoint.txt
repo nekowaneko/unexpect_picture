@@ -1,0 +1,24 @@
+parameters
+
+{{masterpiece}},pinkhair,full body,kemomimi,1 girl,look_at_viewer,genshin impact,kamiko
+
+Negative prompt: lowres, bad anatomy, bad hands, text,error, missing fngers,extra digt ,fewer digits,cropped, wort quality ,low quality,normal quality, jpeg artifacts,signature,watermark, username, blurry, bad feet
+
+Steps: 30, 
+Sampler: Euler a, 
+CFG scale: 12, 
+Size: 512x512,
+Denoising strength: 0.7
+
+parameters
+
+{{masterpiece}},smile,pink hair,full_body,fox ears,{1girl},looking_at_viewer,genshin impact,kamiko,on_the_bed,breathing,
+revealing_clothes,{sexy},high quality,{pantsu}
+
+Negative prompt: bad anatomy, bad hands, text,error, missing fngers,extra digt ,fewer digits,cropped,signature,watermark, username, bad feet
+
+Steps: 30, 
+Sampler: DPM2 a, 
+CFG scale: 11, 
+Size: 768x512, 
+Denoising strength: 0.7
