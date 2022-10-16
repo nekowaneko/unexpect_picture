@@ -1,0 +1,32 @@
+parameters
+
+{{masterpiece}},smile,gold hair,full_body,fox ears,child,{1girl},looking_at_viewer,girls frontline,g41,on_the_bed,breathing,revealing_clothes,{sexy},high quality
+
+Negative prompt: bad anatomy, bad hands, text,error, missing fngers,extra digt ,fewer digits,cropped,signature,watermark, username, bad feet
+
+Steps: 35, 
+Sampler: Euler a, 
+CFG scale: 11, 
+Size: 640x512, 
+Denoising strength: 0.7
+
+parameters
+
+{{masterpiece}},smile,gold hair
+{{whole body}}
+fox ears,{1girl},looking_at_viewer,girls frontline,g41,breathing
+{{white_chiffon}}
+{red left eye}
+{blue right eye}
+{{long hair}}
+
+Negative prompt: bad anatomy, bad hands, text,error, missing fngers,extra digt ,fewer digits,cropped,signature,watermark, username, bad feet,low quality,normal quality
+fox tails
+big breast
+socks
+Steps: 30, 
+Sampler: Euler a, 
+CFG scale: 11, 
+Size: 512x768
+Denoising strength: 0.7
+
